@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "user-registration-app"
+    }
+  },
+  "defaultProject": "user-registration-app",
+  "cli": {
+    "analytics": false
+  }
 }
